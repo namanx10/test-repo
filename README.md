@@ -32,4 +32,4 @@ We have an image in the README (more html)
     <img src="./wtf.jpg" />
     <span style="margin-left:48px;">wubble</span>
 </p>
-
+changes made
